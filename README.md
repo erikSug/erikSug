@@ -12,6 +12,3 @@ Atualmente expandindo conhecimentos em back-end com Node.js, Express e MongoDB.
 ## Contatos
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erik-suguiyama-290650332/)
 
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikSug&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikSug&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
